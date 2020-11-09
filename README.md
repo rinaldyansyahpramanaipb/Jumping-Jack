@@ -10,6 +10,7 @@ Dapatkan koin sebanyak-banyaknya, selesaikan misi dan dapatkan poin.
 - Dapatkan koin untuk menambah poin
 - Penuhi batas minimal koin agar misi terselesaikan
 - Hindari monster dan penghalang agar koin tidak berkurang
+- Jack tidak boleh jatuh ke tanah, jika Jack jatuh maka Jack akan mati
 - Jika koin sudah habis, maka Jack akan mati
 - Setelah misi selesai, lanjut ke level berikutnya
 
