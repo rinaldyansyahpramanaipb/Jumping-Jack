@@ -1,7 +1,7 @@
 # Jumping Jack
 
 ## Story
-Jack merupakan karakter utama dalam game ini. Jack berada di suatu lokasi dimana ia harus mengumpulkan koin sebanyak-banyaknya untuk menyelesaikan misi dan mendapatkan poin. 
+Jack merupakan karakter utama dalam game ini. Jack berada di suatu lokasi dimana ia harus mengumpulkan poin sebanyak-banyaknya dan tidak boleh jatuh ke tanah agar ia memenangkan permainan.
 
 ## Goals
 Dapatkan poin sebanyak-banyaknya.
