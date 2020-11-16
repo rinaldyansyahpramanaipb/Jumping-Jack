@@ -19,5 +19,12 @@ Dapatkan poin sebanyak-banyaknya.
 | Muhammad Rifqi Hizrian Afri (G64180073) | *Game Programmer* |
 | Yanda Novialdi (G64180037) | *Game Artist* |
 
-#List Asset
-Diambil dari Unity Asset Store dengan beberapa modifikasi
+## List Asset
+- Karakter Utama (Jack)
+- Pipes
+- Map
+- Base (tanah)
+- Koin
+- Button & UI
+- Sound effect
+*Asset diambil dari Unity Asset Store dengan beberapa modifikasi
