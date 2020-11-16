@@ -27,4 +27,5 @@ Dapatkan poin sebanyak-banyaknya.
 - Koin
 - Button & UI
 - Sound effect
+
 *Asset diambil dari Unity Asset Store dengan beberapa modifikasi
