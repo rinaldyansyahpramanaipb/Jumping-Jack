@@ -4,15 +4,13 @@
 Jack merupakan karakter utama dalam game ini. Jack berada di suatu lokasi dimana ia harus mengumpulkan koin sebanyak-banyaknya untuk menyelesaikan misi dan mendapatkan poin. 
 
 ## Goals
-Dapatkan koin sebanyak-banyaknya, selesaikan misi dan dapatkan poin.
+Dapatkan poin sebanyak-banyaknya.
 
 ## Rules : 
-- Dapatkan koin untuk menambah poin
-- Penuhi batas minimal koin agar misi terselesaikan
-- Hindari monster dan penghalang agar koin tidak berkurang
-- Jack tidak boleh jatuh ke tanah, jika Jack jatuh maka Jack akan mati
-- Jika koin sudah habis, maka Jack akan mati
-- Setelah misi selesai, lanjut ke level berikutnya
+- Jack dapat bergerak dengan cara terbang (tap di layar)
+- Hindari Pipes untuk menambah poin
+- Ambil koin untuk menambah poin
+- Jika Jack jatuh maka Jack akan mati
 
 ## Pembagian Tugas
 | Nama | Role |
@@ -20,3 +18,6 @@ Dapatkan koin sebanyak-banyaknya, selesaikan misi dan dapatkan poin.
 | Rinaldy Ansyah Pramana Lubis (G64180027) | *Game Design* |
 | Muhammad Rifqi Hizrian Afri (G64180073) | *Game Programmer* |
 | Yanda Novialdi (G64180037) | *Game Artist* |
+
+#List Asset
+Diambil dari Unity Asset Store dengan beberapa modifikasi
