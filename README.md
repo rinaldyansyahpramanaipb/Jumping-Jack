@@ -1,7 +1,7 @@
 # Jumping Jack
 
 ## Story
-Jack merupakan karakter utama dalam game ini. Jack berada di suatu lokasi dimana ia harus mengumpulkan poin sebanyak-banyaknya dan tidak boleh jatuh ke tanah agar ia memenangkan permainan.
+Jack merupakan karakter utama dalam game ini. Jack berada di suatu lokasi dimana ia harus mengumpulkan poin sebanyak-banyaknya dan tidak boleh jatuh ke tanah agar ia memenangkan permainan. Jenis game: endless.
 
 ## Goals
 Dapatkan poin sebanyak-banyaknya.
