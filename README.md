@@ -28,4 +28,4 @@ Dapatkan poin sebanyak-banyaknya.
 - Button & UI
 - Sound effect
 
-*Asset diambil dari Unity Asset Store dengan beberapa modifikasi
+*Asset diambil dari Unity Asset Store dengan beberapa modifikasi*
