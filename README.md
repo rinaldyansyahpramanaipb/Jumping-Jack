@@ -8,9 +8,8 @@ Dapatkan poin sebanyak-banyaknya.
 
 ## Rules : 
 - Jack dapat bergerak dengan cara terbang (tap di layar)
-- Hindari Pipes untuk menambah poin
-- Ambil koin untuk menambah poin
-- Jika Jack jatuh maka Jack akan mati
+- Lewati Pipes untuk menambah poin
+- Jika Jack jatuh atau terkena Pipes, maka Jack akan mati (Game Over)
 
 ## Pembagian Tugas
 | Nama | Role |
@@ -24,8 +23,7 @@ Dapatkan poin sebanyak-banyaknya.
 - Pipes
 - Map
 - Base (tanah)
-- Koin
-- Button & UI
-- Sound effect
+- Button replay
+- Game Over UI
 
-*Asset diambil dari Unity Asset Store dengan beberapa modifikasi*
+*Asset diambil dari Unity Asset Store yang dimodifikasi secara keseluruhan*
