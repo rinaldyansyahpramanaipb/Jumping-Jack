@@ -27,3 +27,6 @@ Dapatkan poin sebanyak-banyaknya.
 - Game Over UI
 
 *Asset diambil dari Unity Asset Store yang dimodifikasi secara keseluruhan*
+
+## Teknologi
+Game ini dibuat dengan software Unity dan bantuan teks editor Visual Studio Code dan bahasa pemrograman C#.
