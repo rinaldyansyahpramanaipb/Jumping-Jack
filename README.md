@@ -13,7 +13,7 @@ Dapatkan poin sebanyak-banyaknya.
 
 ## Pembagian Tugas
 | Nama | NIM | Role |
-| ------ | ------ |
+| ------ | ------ | ------ |
 | Rinaldy Ansyah Pramana Lubis | G64180027 | *Game Design* |
 | Muhammad Rifqi Hizrian Afri | G64180073 | *Game Programmer* |
 | Yanda Novialdi | G64180037 | *Game Artist* |
