@@ -21,7 +21,7 @@ Dapatkan poin sebanyak-banyaknya.
 ## List Asset
 - Karakter Utama (Jack)
 - Pipes
-- Map
+- Background
 - Base (tanah)
 - Replay button
 - Game Over UI
