@@ -12,7 +12,7 @@ Dapatkan poin sebanyak-banyaknya.
 - Jika Jack jatuh atau terkena Pipes, maka Jack akan mati (Game Over)
 
 ## Pembagian Tugas
-| Nama | Role |
+| Nama | NIM | Role |
 | ------ | ------ |
 | Rinaldy Ansyah Pramana Lubis | G64180027 | *Game Design* |
 | Muhammad Rifqi Hizrian Afri | G64180073 | *Game Programmer* |
