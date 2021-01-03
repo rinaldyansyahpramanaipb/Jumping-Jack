@@ -23,7 +23,7 @@ Dapatkan poin sebanyak-banyaknya.
 - Pipes
 - Map
 - Base (tanah)
-- Button replay
+- Replay button
 - Game Over UI
 
 *Asset diambil dari Unity Asset Store yang dimodifikasi secara keseluruhan*
