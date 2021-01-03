@@ -29,4 +29,7 @@ Dapatkan poin sebanyak-banyaknya.
 *Asset diambil dari Unity Asset Store yang dimodifikasi secara keseluruhan*
 
 ## Teknologi
-Game ini dibuat dengan software Unity dan bantuan teks editor Visual Studio Code dan bahasa pemrograman C#.
+| Teknologi | Fungsi |
+| ------ | ------ |
+| Unity 2019.4 | Mengorganisir pembuatan game, pengolahan aset, penggunaan script, dan kolaborasi pengerjaan |
+| Visual Studio Code | Membuat skrip dengan bahasa pemrograman C# |
