@@ -33,6 +33,8 @@ Dapatkan poin sebanyak-banyaknya.
 | ------ | ------ |
 | Unity 2019.4 | Mengorganisir pembuatan game, pengolahan aset, penggunaan script, dan kolaborasi pengerjaan |
 | Visual Studio Code | Membuat skrip dengan bahasa pemrograman C# |
+| Adobe Photoshop | Mengedit asset dan *interface* |
+| Platform Android | Perangkat kompatibel untuk memainkan game |
 
 ## Screenshot Game
 
