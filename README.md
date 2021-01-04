@@ -37,7 +37,7 @@ Dapatkan poin sebanyak-banyaknya.
 | Platform Android | Perangkat kompatibel untuk memainkan game |
 
 ## Link Video
-ipb.link/video-jumping-jack
+https://ipb.link/video-jumping-jack
 
 ## Screenshot Game
 
