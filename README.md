@@ -36,6 +36,9 @@ Dapatkan poin sebanyak-banyaknya.
 | Adobe Photoshop | Mengedit asset dan *interface* |
 | Platform Android | Perangkat kompatibel untuk memainkan game |
 
+## Link Video
+ipb.link/video-jumping-jack
+
 ## Screenshot Game
 
 ### Opening Game Unity
