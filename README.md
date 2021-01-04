@@ -20,11 +20,22 @@ Dapatkan poin sebanyak-banyaknya.
 
 ## List Asset
 - Karakter Utama (Jack)
+![logo](https://github.com/rinaldyansyahpramanaipb/Jumping-Jack/blob/main/Assets/Jack-middle.png)
+
 - Pipes
+![logo](https://github.com/rinaldyansyahpramanaipb/Jumping-Jack/blob/main/Assets/pipe.png)
+
 - Background
+![logo](https://github.com/rinaldyansyahpramanaipb/Jumping-Jack/blob/main/Assets/Background.png)
+
 - Base (tanah)
+![logo](https://github.com/rinaldyansyahpramanaipb/Jumping-Jack/blob/main/Assets/base.png)
+
 - Replay button
+![logo](https://github.com/rinaldyansyahpramanaipb/Jumping-Jack/blob/main/Assets/play_button.png)
+
 - Game Over UI
+![logo](https://github.com/rinaldyansyahpramanaipb/Jumping-Jack/blob/main/Assets/gameover.png)
 
 *Asset diambil dari Unity Asset Store yang dimodifikasi secara keseluruhan*
 
