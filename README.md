@@ -36,14 +36,14 @@ Dapatkan poin sebanyak-banyaknya.
 
 ## Screenshot Game
 
-# Opening Game Unity
+### Opening Game Unity
 ![logo](https://github.com/rinaldyansyahpramanaipb/Jumping-Jack/blob/main/1-Unity%20Logo.png)
 
-# Awal Game (Score 0)
+### Awal Game (Score 0)
 ![logo](https://github.com/rinaldyansyahpramanaipb/Jumping-Jack/blob/main/2-Score%200.png)
 
-# Game (Score 5)
+### Game (Score 5)
 ![logo](https://github.com/rinaldyansyahpramanaipb/Jumping-Jack/blob/main/3-Score.png)
 
-# Game Over
+### Game Over
 ![logo](https://github.com/rinaldyansyahpramanaipb/Jumping-Jack/blob/main/4-Game%20Over.png)
